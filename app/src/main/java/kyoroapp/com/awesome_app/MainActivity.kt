@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btn1.setOnClickListener {
-            label1.text = "${label1.text} Awesome!"
+            label1.text = "${label1.text} Awesome!!!!"
         }
     }
 }
